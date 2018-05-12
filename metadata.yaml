@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5592
     wikipedia: http://en.wikipedia.org/wiki/Fritz_Reuter
 description: 'Translation of: Ut Mine Stromtid'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35889#Seed-time-and-HarvestA-Novel
 gutenberg_issued: '2011-04-16'
 gutenberg_type: Text
 identifiers:
