@@ -1,0 +1,29 @@
+_repo: Seed-time-and-HarvestA-Novel_35889
+_version: 0.1.0
+alternative_title: Ut mine Stromtid. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reuter, Fritz
+    alias: Reuter, Heinrich Ludwig Christian Friedrich
+    birthdate: 1810
+    deathdate: 1874
+    gutenberg_agent_id: '5592'
+    url: http://www.gutenberg.org/2009/agents/5592
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Reuter
+description: 'Translation of: Ut Mine Stromtid'
+gutenberg_issued: '2011-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Farm life -- Fiction'
+title: 'Seed-time and Harvest: A Novel'
+url: http://www.gutenberg.org/ebooks/35889
